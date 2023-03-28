@@ -1,8 +1,8 @@
 <h1 align="center">Heya! I'm David!</h1>
 <h3 align="center">A noob programmer who still tries to improve their skills</h3>
 
-- I’m currently learning Web development and starting with python
-- I'm mainly a Roblox developer. RDC21 Atendee
+- Currently learning Web development and starting with Python
+- Mainly a Roblox developer. RDC Atendee
 - Also love Graphic Design
 
 <h3 align="left">Connect with me:</h3>
