@@ -1,9 +1,9 @@
 <h1 align="center">Heya! I'm David!</h1>
-<h3 align="center">A noob programmer who still tries to improve their skills</h3>
 
-- Currently learning Web development and starting with Python
-- Mainly a Roblox developer. RDC Atendee
-- Also love Graphic Design
+- CS Student at UNAM
+- Web developer
+- Open Source lover
+- Passionate graphic designer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
