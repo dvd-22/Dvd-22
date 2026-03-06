@@ -1,8 +1,11 @@
-<h1 align="center">Heya! I'm David!</h1>
+# Heya! I'm David!
 
 - CS Student at UNAM
 - Web developer
-- Open Source lover
-- Passionate graphic designer
+- Open Source Contributor at [LIDSoL](https://github.com/LIDSOL)
+- Hobbyist musician and graphic designer
 
-[![Dvd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvd-22)](https://github.com/anuraghazra/github-readme-stats)
+Connect with me [here](https://dvd22.me/contact)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dvd-22&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=dvd-22&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dvd-22&layout=compact&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=dvd-22&layout=compact&langs_count=6&theme=dark)
